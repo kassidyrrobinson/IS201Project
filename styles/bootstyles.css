@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(243, 239, 239);
+    text-align: left;
+}
+.titletext{
+    text-align: center;
+}
+.captions {
+    text-align: right;
+}
+a {
+    color: rgb(119, 175, 175);
+    text-align: right;
+    font-family: 'Bebas Neue', cursive;
+}
+a:hover {
+    text-decoration: underline;
+    color: rgb(119, 175, 175);
+}
+.common{
+    position: absolute;
+    color: rgb(119, 175, 175);
+}
+.header{
+    top:5px;
+    left:5px;
+    right:5px;
+    height:95px;
+    text-align: right;
+}
+.topleft {
+    top:100px;
+    left:5px;
+    width:49%;
+    height:550px;
+}
+.bottomleft {
+    top:650px;
+    left:5px;
+    width:49%;
+    height:650px;
+}
+.topright {
+    top:100px;
+    width:49%;
+    right:5px;
+    height:550px;
+}
+.bottomright {
+    top:650px;
+    right:5px;
+    width:49%;
+    height:650px;
+}
+.footer{
+    position: fixed;
+    color:black;
+    background-color: whitesmoke;
+    bottom: 0;
+    width:100%;
+    height:50px;
+    text-align: center;
+}

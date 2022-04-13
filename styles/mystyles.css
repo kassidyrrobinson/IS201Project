@@ -1,0 +1,36 @@
+.myheader {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-decoration: underline;
+    color: rgb(119, 175, 175);
+    text-align: center;
+}
+.imgfun {
+    border: 2px rgb(119, 175, 175);
+    border-style: solid;
+}
+a:hover {
+    text-decoration: underline;
+    color: gray;
+    font-weight: bold;
+}
+.specialtext {
+    color: rgb(119, 175, 175);
+    font-weight: bold;
+}
+.a {
+    text-align: center;
+    color:rgb(119, 175, 175);
+    font-size:14.5px;
+}
+.divide {
+    color:rgb(119, 175, 175);
+    font-size: 14.5px;
+}
+body {
+    text-align: left;
+    background-color: rgb(243, 239, 239);
+}
+.presentation {
+    text-align:center;
+}
